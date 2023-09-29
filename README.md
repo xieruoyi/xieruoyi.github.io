@@ -7,6 +7,9 @@ Activity 2
 
 Activity 3  
 ![ad8f9a6ab6b7d6554ed8ce35a9c5204](https://github.com/xieruoyi/xieruoyi.github.io/assets/105222584/8e0ac5e2-fd19-4b4f-a7c6-f2195413227f)
-
 ![1696011099768](https://github.com/xieruoyi/xieruoyi.github.io/assets/105222584/d24e2156-c35f-4a71-b608-0d91105753cf)
+
+Activity 4  
+![ed9bb99eb579b29fb21a487ee6f2ac1](https://github.com/xieruoyi/xieruoyi.github.io/assets/105222584/99d21f34-8ca1-4830-be82-41f1a3f8b271)
+![1696014564587](https://github.com/xieruoyi/xieruoyi.github.io/assets/105222584/9d6edcb2-053a-40e7-af53-d08227060c0b)
 

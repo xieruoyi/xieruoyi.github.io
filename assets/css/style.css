@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #FF693D  repeat;
   position: relative;
 }
 
@@ -383,12 +383,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
+  color: #FF693D;
   border-bottom: 2px solid #ffab40;
 }
 
 .card li a:hover {
-  color: #333;
+  color: #FF693D;
   font-weight: 500;
 }
 
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #FF693D;
+    color: #FF953D;
     height: 56px;
     line-height: 56px;
   }
